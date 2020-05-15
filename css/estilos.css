@@ -1,0 +1,37 @@
+body {
+    background-image: url('https://abrilsuperinteressante.files.wordpress.com/2018/07/5672f6af82bee174ca03d239thinkstockphotos-153831740.jpeg?quality=70&strip=info');
+    background-size: auto 100vh;
+    font-family: arial;
+    height: 100vh;
+  }  
+  .menu {
+    background-color: white
+  }
+  a {
+    color: #FF5733;
+    text-decoration: none;
+  }
+  
+  a:haver {
+    text-decoration: underline;
+  }
+  
+  .menu ul{
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li{
+    list-style: none
+  }
+  
+  .site-title{
+    color: whitesmoke;
+    text-align: center;
+  }
+  .site-subtitle{
+    color: whitesmoke;
+    font-style: italic;
+    text-align: center;
+  }
+  
